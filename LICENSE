@@ -1,0 +1,8 @@
+cat > LICENSE <<EOL
+Copyright (c) 2025 Equipe Overload e João Ricardo Chaves  
+Todos os direitos reservados.
+
+Este repositório é disponibilizado publicamente com o objetivo exclusivo de demonstrar o trabalho realizado pela Equipe Overload e por João Ricardo Chaves.  
+
+Não é permitida a cópia, modificação, redistribuição, uso comercial ou qualquer outra utilização do código-fonte aqui contido sem autorização prévia e por escrito dos detentores dos direitos.  
+EOL
